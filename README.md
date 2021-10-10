@@ -8,5 +8,6 @@ jescze cos
 This repository is for showing how Git and GitHub work
 ##Howe to Contribute
 
+duzo jeszcze?
 
-
+chyba tak
